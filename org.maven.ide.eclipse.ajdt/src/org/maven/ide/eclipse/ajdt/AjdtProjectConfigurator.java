@@ -100,7 +100,7 @@ public class AjdtProjectConfigurator extends AbstractProjectConfigurator impleme
 
   public void configureRawClasspath(ProjectConfigurationRequest request, IClasspathDescriptor classpath,
       IProgressMonitor monitor) throws CoreException {
-    // TODO Auto-generated method configureRawClasspath
+    // TODO search inpath in web app libraries too
     
   }
 
